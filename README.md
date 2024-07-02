@@ -1,2 +1,2 @@
 # Delta---demo
-in this repository we can explain github use explaination
+in this repository we can explain github use explaination.
